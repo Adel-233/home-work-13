@@ -1,0 +1,10 @@
+nav{
+    height: 60px;
+    background-color: #8a90ff;
+}
+
+header{
+    height: 600px;
+    background-image: url(../Img/banner-bg.jpg);
+    background-size: cover;
+}
